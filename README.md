@@ -1,5 +1,7 @@
 # Welcome!
 
+### Hi, I'm **HamZa Samha** 👋
+
 <style>
   .profile-img {
     float: right;
@@ -10,19 +12,17 @@
   
   @media (max-width: 768px) {
     .profile-img {
-      float: none;
-      display: block;
-      width: 120px;
-      margin: 0 auto 20px;
+      width: 100px;
+      margin-left: 15px;
     }
   }
 </style>
 
 <img class="profile-img" src="./me/profile.png" alt="HamZa Samha"/>
 
-### Hi, I'm **HamZa Samha** 👋
 
-I'm a software engineer 💻 passionate about building scalable systems and solving complex technical challenges. This is my personal space, where I share articles and deep dives into software engineering topics.
+
+I'm a **Software Engineer**. This is my personal space, where I share articles and deep dives into software engineering topics.
 
 Here, you'll find articles on:
 - 🏗️ Backend development
@@ -30,7 +30,7 @@ Here, you'll find articles on:
 - 📐 Software architecture
 - ⚙️ Various technologies I work with
 
-Feel free to explore my articles below. Let's learn and grow together! 🚀
+Feel free to explore my articles below. 🚀
 
 📄 **[View My CV](./me/HamZa%20Samha%20(CV).pdf)**
 
