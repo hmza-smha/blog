@@ -14,7 +14,7 @@ Here, you'll find articles on:
 
 Feel free to explore my articles below. Let's learn and grow together! 🚀
 
-📄 **[Download My CV](./me/HamZa%20Samha%20(CV).pdf)**
+📄 **[View My CV](./me/HamZa%20Samha%20(CV).pdf)**
 
 ---
 
