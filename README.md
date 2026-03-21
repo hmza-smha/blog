@@ -22,6 +22,8 @@ Feel free to explore my articles below. Let's learn and grow together! 🚀
 
 |   Title   |   Link    |
 |   :---    |   :----:  |
+|   Notes about FastAPI   |   [read](./notes_in_fastapi.md)  |
+|   NLP Evolution   |   [read](./nlp_evolution.md)  |
 |   SSO   |   [read](./sso.md)  |
 |   RabbitMQ   |   [read](./rabbitmq.md)  |
 |   Redis   |   [read](./redis.md)  |
