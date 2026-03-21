@@ -28,3 +28,4 @@ Feel free to explore my articles below. Let's learn and grow together! 🚀
 |   Monolith, DDD, plugins   |   [read](./monolith_ddd_plugins.md)  |
 |   Features as Plugins   |   [read](./feature_as_plugins.md)  |
 |   User Roles   |   [read](./user_roles.md)  |
+|   How to Understand ERD   |   [read](./how_to_understand_erd.md)  |
