@@ -1,5 +1,17 @@
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#1-introduction-defining-the-problem) | Problem Definition |
+| [2](#1️⃣-teamleadid-on-the-team-the-obvious-model) | TheadId Model |
+| [3](#2️⃣-membership--role-the-grown-up-default) | Membership + Role |
+
+---
+
 # User Roles
 
 # Problem: Designing User, Team, Team Lead, and Team Member Relationships

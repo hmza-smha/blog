@@ -1,6 +1,20 @@
 [Back](./README.md)
 
-# Monolith, DDD, and Plugind
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#-monolith-monolithic-architecture) | Monolith Architecture |
+| [2](#-ddd-domain-driven-design) | Domain-Driven Design |
+| [3](#-plugin-architecture) | Plugin Architecture |
+| [4](#-how-they-relate) | Relationships |
+| [5](#-quick-comparison) | Quick Comparison |
+
+---
+
+# Monolith, DDD, and Plugins
 
 In software architecture, these terms describe different ways of structuring and organizing your system. They’re not mutually exclusive—you can combine them depending on your needs.
 

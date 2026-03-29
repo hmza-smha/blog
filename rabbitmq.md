@@ -1,5 +1,22 @@
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#-why-do-we-need-it) | Why RabbitMQ? |
+| [2](#-simple-example) | Simple Example |
+| [3](#-core-concepts) | Core Concepts |
+| [4](#-how-it-works-flow) | How It Works |
+| [5](#-why-its-powerful) | Benefits |
+| [6](#-where-its-used) | Use Cases |
+| [7](#-rabbitmq-vs-direct-api-calls) | vs Direct API Calls |
+| [8](#-in-net-since-you-work-with-aspnet) | .NET Integration |
+
+---
+
 # RabbitMQ
 
 **RabbitMQ** is an **open-source message broker** that allows different parts of a system to communicate with each other by sending and receiving messages.

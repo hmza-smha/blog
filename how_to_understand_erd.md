@@ -1,5 +1,20 @@
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1️⃣](#1️⃣-first-change-how-you-think-about-erds) | Change Your Thinking |
+| [2️⃣](#2️⃣-core-erd-relationship-types-mapped-to-c) | Relationship Types |
+| [3️⃣](#3️⃣-join-table-without-extra-relationships-easy-case-😊) | Join Tables (Easy Case) |
+| [4️⃣](#4️⃣-the-confusing-case-join-table-with-extra-data) | Join Tables with Data |
+| [5️⃣](#5️⃣-join-table-with-another-relationship-your-pain-point-😰) | Complex Join Tables |
+| [6️⃣](#6️⃣-how-to-read-any-erd-step-by-step-method-🎯) | How to Read Any ERD |
+
+---
+
 # How to Understand ERD
 
 You're not alone—**ERDs are one of the most common pain points**, especially when join tables start having their own relationships and attributes. The good news: once you learn how to read them structurally, they become much easier than they look! 🎯

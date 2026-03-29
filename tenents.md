@@ -1,6 +1,22 @@
 [Back](./README.md)
 
-# Tenents
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#what-is-a-tenant) | What is a Tenant? |
+| [2](#key-characteristics) | Key Characteristics |
+| [3](#simple-architecture-example) | Architecture Example |
+| [4](#common-multi-tenancy-models) | Multi-Tenancy Models |
+| [5](#benefits) | Benefits |
+| [6](#challenges) | Challenges |
+| [7](#multi-tenant-vs-single-tenant) | vs Single-Tenant |
+
+---
+
+# Tenants
 
 A **multi-tenant software application** is a system where **one shared application instance serves multiple customers (tenants)**, while **keeping each tenant’s data and configuration isolated**.
 

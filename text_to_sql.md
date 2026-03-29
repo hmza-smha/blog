@@ -1,5 +1,18 @@
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#1-understanding-user-input-nlp-side) | Understanding User Input |
+| [2](#2-schema-awareness) | Schema Awareness |
+| [3](#3-llm-prompting--design) | LLM Prompting |
+| [4](#4-sql-generation-challenges) | SQL Generation |
+
+---
+
 # Text to SQL Design
 1. **Understanding User Input (NLP side)**
 2. **Schema Awareness**

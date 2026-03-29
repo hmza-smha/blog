@@ -1,5 +1,25 @@
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#-what-is-docker-in-simple-terms) | 🐳 What is Docker (in simple terms)? |
+| [2](#-the-actual-problem-docker-solves) | ❗ The actual problem Docker solves |
+| [3](#-why-do-we-need-docker) | 🤔 Why do we need Docker? |
+| [4](#-core-concepts-the-important-building-blocks) | 🧱 Core Concepts |
+| [5](#-simple-analogy-best-way-to-remember) | ⚡ Simple analogy |
+| [6](#example) | Example - FastAPI + Angular with Docker |
+| [7](#-do-we-need-venv-if-we-are-using-docker) | Do we need `.venv` with Docker? |
+| [8](#files-explanation) | Files Explanation |
+| [9](#-commands) | Docker Commands Cheatsheet |
+| [10](#docker--ubuntu) | Docker & Ubuntu (Server Setup) |
+| [11](#docker-vs-kubernetes) | Docker vs Kubernetes |
+
+---
+
 # 🐳 What is Docker (in simple terms)?
 
 Docker is a tool that lets you package an application *with everything it needs* (code, libraries, settings) and run it anywhere consistently.

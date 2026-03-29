@@ -1,5 +1,22 @@
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#1️⃣-two-very-different-worlds-embedding-vs-reranking) | Embedding vs Reranking |
+| [2](#2️⃣-what-actually-happens-during-reranking) | Reranking Process |
+| [3](#3️⃣-why-its-called-a-cross-encoder) | Cross-Encoder Explanation |
+| [4](#4️⃣-is-reranking-an-algorithm) | Is Reranking an Algorithm? |
+| [5](#5️⃣-why-you-cannot-use-embeddings-for-reranking) | Embeddings vs Reranking |
+| [6](#6️⃣-is-reranking-always-necessary) | When Reranking is Needed |
+| [7](#7️⃣-can-qdrant-do-reranking-internally) | Vector DB Reranking |
+| [8](#🔚-final-takeaway) | Key Takeaways |
+
+---
+
 # Chunks Reranker
 
 ## 1️⃣ Two very different worlds: Embedding vs Reranking

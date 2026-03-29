@@ -1,5 +1,19 @@
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#-first-what-redis-is-good-at) | What Redis is Good At |
+| [2](#-trade-offs-you-need-to-understand) | Trade-offs |
+| [3](#-best-practices-practical-not-theoretical) | Best Practices |
+| [4](#-common-mistakes-in-aspnet-projects) | Common Mistakes |
+| [5](#-aspnet-specific-tips) | ASP.NET Tips |
+
+---
+
 # Redis
 
 # 🧠 First: What Redis *is good at*

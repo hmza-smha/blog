@@ -1,5 +1,24 @@
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#-1-goal-features-per-client-multi-tenant-plugins) | Goal: Features per Client |
+| [2](#-2-high-level-structure-aspnet-core) | High-Level Structure |
+| [3](#-3-define-the-plugin-contract) | Plugin Contract |
+| [4](#-4-example-plugin) | Example Plugin |
+| [5](#-5-plugin-manager-core-logic) | Plugin Manager |
+| [6](#-6-per-client-configuration) | Per-Client Configuration |
+| [7](#-7-wire-it-in-aspnet-core-pipeline) | ASP.NET Core Pipeline |
+| [8](#-8-handling-plugin-dependencies-your-key-question) | Plugin Dependencies |
+| [9](#-9-stronger-design-real-world-improvement) | Stronger Design |
+| [10](#-10-advanced-aspnet-techniques) | Advanced Techniques |
+
+---
+
 ## Features as Plugins in ASP.NET Core
 
 **ASP.NET Core** is actually a very solid platform for building a **plugin-based, per-client feature system**. 

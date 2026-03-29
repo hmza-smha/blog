@@ -1,6 +1,20 @@
 
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#-what-is-the-full-chain) | What is Full Chain? |
+| [2](#-why-do-you-need-it) | Why Full Chain? |
+| [3](#-update-nginx-config) | Update NGINX Config |
+| [4](#-step-6-test--reload) | Test & Reload |
+| [5](#-what-i-did-in-the-new-nginx-config) | NGINX Config Explained |
+
+---
+
 # Adding SSL Certificate To Ubuntu and NGINX
 
 `cd /etc/nginx/`

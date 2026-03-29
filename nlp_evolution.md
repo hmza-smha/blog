@@ -1,6 +1,23 @@
 
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#-overview-of-nlp) | NLP Overview |
+| [2](#-rule-based-systems-era-1950s1980s) | Rule-Based Systems |
+| [3](#-statistical-era-1980s–early-2000s) | Statistical Era |
+| [4](#-machine-learning-era-2000s2013) | Machine Learning Era |
+| [5](#-embeddings-era-2013–2017) | Embeddings Era |
+| [6](#-recurrent-neural-networks-rnns) | Recurrent Networks |
+| [7](#-transformers-era-2017–present) | Transformers |
+| [8](#-transformers) | Transformer Details |
+
+---
+
 # 🧠 **Natural Language Processing (NLP)**
 
 ## 📚 **Overview of NLP**

@@ -1,6 +1,18 @@
 
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#-start-a-service) | Service Commands |
+| [2](#-step-by-step-convert-to-windows-service) | Setup Guide |
+| [3](#tables) | Database Schema |
+
+---
+
 To **start**, **stop**, and **restart** a Windows Service using **PowerShell**, use the following built-in cmdlets:
 
 ---

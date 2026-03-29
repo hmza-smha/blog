@@ -1,5 +1,16 @@
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#-core-principles) | Core Principles |
+| [2](#-production-checklist-for-high-concurrency) | Production Checklist |
+
+---
+
 # 🚀 FastAPI Performance & Concurrency Guide
 
 A comprehensive guide to ensuring FastAPI actually supports **high concurrency** in production. 🎯

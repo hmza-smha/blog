@@ -1,6 +1,17 @@
 
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#1-core-foundations-must-have) | 🏗️ Core Foundations |
+| [2](#2-system-design-fundamentals-very-important) | 🎯 System Design Fundamentals |
+
+---
+
 # Become Next Level Software Developer
 
 Below is a **clear learning roadmap for Software Architecture & System Design**, ordered from fundamentals → advanced → real-world practice.

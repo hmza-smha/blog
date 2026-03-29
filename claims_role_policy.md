@@ -1,5 +1,18 @@
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#roles-vs-claims-vs-policies-aspnet-core) | Roles vs Claims vs Policies |
+| [2](#how-they-relate) | How They Relate |
+| [3](#is-one-sufficient) | Is One Sufficient? |
+| [4](#when-to-use-what) | When to Use What |
+
+---
+
 # Claims, Roles, and Policies
 
 Here is a **concise, side-by-side table** that summarizes **Roles, Claims, and Policies**, *why they exist*, *how they relate*, and *when to use them*.

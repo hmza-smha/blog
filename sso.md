@@ -1,5 +1,21 @@
 [Back](./README.md)
 
+---
+
+## 📑 Table of Contents
+
+| Section | Topic |
+|---------|-------|
+| [1](#-how-it-works-simple-example) | Simple Example |
+| [2](#-how-it-works-technically) | Technical Explanation |
+| [3](#-benefits-of-sso) | Benefits |
+| [4](#-possible-downsides) | Downsides |
+| [5](#-where-sso-is-commonly-used) | Common Uses |
+| [6](#-scenario-login-to-gmail--then-open-youtube) | Real-World Example |
+| [7](#-behind-the-scenes-protocol-level) | Protocol Level |
+
+---
+
 # SSO
 
 **SSO (Single Sign-On)** is an authentication method that lets a user log in **once** and gain access to **multiple applications or systems** without logging in again for each one.
