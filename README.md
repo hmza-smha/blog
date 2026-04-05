@@ -40,6 +40,7 @@ Feel free to explore my articles below. 🚀
 
 |   Title   |   Link    |
 |   :---    |   :----:  |
+|   Plugin Architecture  |   [read](./plugins_arch.md)  |
 |   Copilot  |   [read](./copilot.md)  |
 |   Docker  |   [read](./docker.md)  |
 |   Docker Demo |   [read](https://github.com/hmza-smha/docker-demo)  |
