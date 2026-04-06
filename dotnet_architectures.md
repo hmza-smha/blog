@@ -668,7 +668,7 @@ Domain ← Application ← Infrastructure ← API
 
 Each module is plug-and-play:
 
-```csharp id="module-registration"
+```txt
 builder.Services.AddOrdersModule();
 builder.Services.AddUsersModule();
 builder.Services.AddPaymentsModule();
