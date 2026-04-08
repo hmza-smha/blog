@@ -40,7 +40,8 @@ Feel free to explore my articles below. 🚀
 
 |   Title   |   Link    |
 |   :---    |   :----:  |
-|   .NET Architectures.md  |   [read](./dotnet_architectures.md)  |
+|   xUnit Testing  |   [read](./xunit_testing.md)  |
+|   .NET Architectures  |   [read](./dotnet_architectures.md)  |
 |   Plugin Architecture  |   [read](./plugins_arch.md)  |
 |   Copilot  |   [read](./copilot.md)  |
 |   Docker  |   [read](./docker.md)  |
