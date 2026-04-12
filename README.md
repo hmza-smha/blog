@@ -40,6 +40,7 @@ Feel free to explore my articles below. 🚀
 
 |   Title   |   Link    |
 |   :---    |   :----:  |
+|   Dynamic Authorization  |   [read](./dynamic_authorization.md)  |
 |   RememberMe, Token, and Access Token  |   [read](./remember.md)  |
 |   xUnit Testing  |   [read](./xunit_testing.md)  |
 |   .NET Architectures  |   [read](./dotnet_architectures.md)  |
