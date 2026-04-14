@@ -41,6 +41,7 @@ Feel free to explore my articles below. 🚀
 |   Title   |   Link    |
 |   :---    |   :----:  |
 |   Dynamic Authorization  |   [read](./dynamic_authorization.md)  |
+|   How to Implement Real-Time Permission Updates with ASP.NET, Angular & SignalR  |   [read](./dynamic_auth2.md)  |
 |   RememberMe, Token, and Access Token  |   [read](./remember.md)  |
 |   xUnit Testing  |   [read](./xunit_testing.md)  |
 |   .NET Architectures  |   [read](./dotnet_architectures.md)  |
