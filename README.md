@@ -40,6 +40,7 @@ Feel free to explore my articles below. 🚀
 
 |   Title   |   Link    |
 |   :---    |   :----:  |
+|   Modular Monolith with DDD  |   [read](./modular_monolith_with_ddd.md)  |
 |   Dense, Sparse, Dimension, Metric (Cosine, Euclidean, DotProduct)  |   [read](./vdb_vector_embedding.md)  |
 |   Database Performance Techniques Cheat Sheet  |   [read](./database_performance.md)  |
 |   Dynamic Authorization  |   [read](./dynamic_authorization.md)  |
