@@ -40,6 +40,7 @@ Feel free to explore my articles below. 🚀
 
 |   Title   |   Link    |
 |   :---    |   :----:  |
+|   Interview - Senior |   [read](./interview_senior.md)  |
 |   Repository & Unit of Work Patterns |   [read](./repository_and_unitofwork.md)  |
 |   Dictionary & Concurrent Dictionary |   [read](./dict.md)  |
 |   Modular Monolith with DDD  |   [read](./modular_monolith_with_ddd.md)  |
