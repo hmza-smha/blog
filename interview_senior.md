@@ -12,14 +12,93 @@
     3. Repository Pattern
     4. Unit of Work
     5. CQRS
+
 3. What software architectures have you worked with?
     1. Monolith
     2. Modular Monolith
     3. Clean Architectures
     4. Layered Architectures
 
-4. How you design an API?
+---
 
+## How you design an API?
+
+---
+
+## How would you secure an API?
+
+* HTTPS
+* OAuth 2.0
+* JWT
+* API Keys
+* Rate Limiting
+* Input Validation
+* SQL Injection Prevention
+* XSS Prevention
+* CSRF Protection
+* CORS
+* Audit Logging
+* Least Privilege
+* Never Trust Client Input
+
+---
+
+## What is the difference between JWT and Session Authentication?
+
+* Stateless vs. Stateful
+* Scalability
+* Storage
+* Performance
+* Security
+* Expiration
+* Refresh Tokens
+* Revocation
+
+---
+
+## How do you revoke JWTs?
+
+* Blacklist/Denylist
+* Short-Lived Tokens
+* Refresh Token Rotation
+* Token Versioning
+* Key Rotation
+
+---
+
+## How do you design API pagination?
+
+* Offset Pagination
+* Cursor Pagination
+* Performance
+* Sorting
+* Indexing
+
+---
+
+## How do you prevent duplicate API requests?
+
+* Idempotency Keys
+* Optimistic Locking
+* Distributed Locks
+
+---
+## How do you handle long-running API requests?
+
+* Async Processing
+* Background Jobs
+* Message Queues
+* 202 Accepted
+* Polling
+* Webhooks
+* Job Status Endpoint
+* Timeouts
+* Retries
+* Idempotency
+
+
+
+# Scenarios
 
 # Scenario 1: Slow API
 
