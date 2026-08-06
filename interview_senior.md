@@ -17,7 +17,6 @@
     1. Monolith
     2. Modular Monolith
     3. Clean Architectures
-    4. Layered Architectures
 
 ---
 
@@ -31,11 +30,10 @@
 * JWT
 * API Keys
 * Rate Limiting
-* Input Validation
+* Input Validation - Never Trust Client Input
 * SQL Injection Prevention
 * XSS Prevention
 * CSRF Protection
-* Never Trust Client Input
 
 ---
 
