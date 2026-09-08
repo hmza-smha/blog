@@ -41,6 +41,7 @@ Feel free to explore my articles below. 🚀
 |   Title   |   Link    |
 |   :---    |   :----:  |
 |   Interview - Senior |   [read](./interview_senior.md)  |
+|   Rag Testing |   [read](./rag_testing.md)  |
 |   API Design for Uploading Files With Metadata |   [read](./api-design-for-uploading-files-with-metadata.md)  |
 |   Configure Options in ASPNET |   [read](./configure-options_in_aspnet.md)  |
 |   Repository & Unit of Work Patterns |   [read](./repository_and_unitofwork.md)  |
